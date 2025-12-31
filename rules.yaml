@@ -1,0 +1,57 @@
+subscribers:
+  '0':
+  - level: WARN
+    pattern: Multiple session resets.*
+  - level: INFO
+    pattern: User user[0-9]{3} logged in
+  - level: INFO
+    pattern: User user[0-9]{3} created shared folder
+  - level: ERROR
+    pattern: Failed to update .*
+  - level: WARN
+    pattern: Suspicious .*
+  - level: DEBUG
+    pattern: Background sync finished .*
+  - level: DEBUG
+    pattern: Preloaded configuration for .*
+ 
+
+  '1':
+  - level: INFO
+    pattern: User user[0-9]{3} created new workspace
+  - level: INFO
+    pattern: User user[0-9]{3} uploaded file
+  - level: ERROR
+    pattern: Could not save .*
+  - level: WARN
+    pattern: Unusual access pattern .*
+  - level: DEBUG
+    pattern: .*session token.*
+  - level: DEBUG
+    pattern: Cache write completed .*
+  '2':
+  - level: INFO
+    pattern: User user[0-9]{3} reset MFA
+  - level: INFO
+    pattern: User user[0-9]{3} registered device
+  - level: WARN
+    pattern: .*brute-force.*
+  - level: ERROR
+    pattern: Failed to validate credentials .*
+  - level: ERROR
+    pattern: Failed to upload document .*
+  - level: DEBUG
+    pattern: Cache write completed .*
+  '3':
+  - level: ALERT
+    pattern: Unauthorized .*
+  - level: ALERT
+    pattern: .*account lock.*
+  - level: ERROR
+    pattern: Failed to generate security token .*
+  - level: WARN
+    pattern: Unexpected location login attempt .*
+  - level: WARN
+    pattern: Multiple session resets .*
+  - level: ERROR
+    pattern: Could not write data to storage .*

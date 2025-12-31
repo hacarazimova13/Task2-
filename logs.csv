@@ -1,0 +1,201 @@
+timestamp,level,message
+2025-11-21 04:27:06,WARN,Multiple session resets detected for user619
+2025-11-22 08:52:49,ALERT,Unauthorized access attempt involving user812
+2025-11-22 06:59:14,DEBUG,Refreshed session token for user989
+2025-11-21 08:26:38,INFO,User user306 changed password
+2025-11-20 02:22:50,INFO,User user774 logged in
+2025-11-20 20:24:28,ERROR,Could not write data to storage for user546
+2025-11-21 15:52:47,DEBUG,Background sync finished for user571
+2025-11-20 17:35:49,WARN,Potential brute-force activity involving user987
+2025-11-20 06:48:16,ALERT,Unauthorized access attempt involving user877
+2025-11-22 18:45:06,DEBUG,Validation routine succeeded for user304
+2025-11-20 08:50:20,WARN,Suspicious repeated login attempts for user694
+2025-11-21 12:43:08,WARN,Unusual access pattern detected for user883
+2025-11-21 06:31:31,DEBUG,Preloaded configuration for user509
+2025-11-22 10:29:34,INFO,User user372 enabled 2FA
+2025-11-20 12:24:37,DEBUG,Refreshed session token for user438
+2025-11-21 22:22:11,WARN,Unusual access pattern detected for user443
+2025-11-22 23:07:38,INFO,User user991 changed password
+2025-11-21 18:42:43,ALERT,Account lock triggered for user542
+2025-11-20 15:06:13,ALERT,Critical suspicious behaviour detected for user875
+2025-11-22 15:40:42,DEBUG,Refreshed session token for user472
+2025-11-20 08:31:49,WARN,Unusual access pattern detected for user939
+2025-11-20 04:50:49,DEBUG,Cache write completed for user375
+2025-11-20 07:23:32,INFO,User user945 changed password
+2025-11-22 08:36:34,DEBUG,Refreshed session token for user694
+2025-11-21 05:03:57,DEBUG,Refreshed session token for user116
+2025-11-20 19:07:43,WARN,Potential brute-force activity involving user641
+2025-11-21 19:26:29,DEBUG,Refreshed session token for user748
+2025-11-20 06:51:12,DEBUG,Refreshed session token for user974
+2025-11-20 05:25:31,INFO,User user787 created shared folder
+2025-11-22 10:59:56,DEBUG,Preloaded configuration for user447
+2025-11-21 07:31:02,DEBUG,Refreshed session token for user107
+2025-11-22 22:55:26,WARN,Unusual access pattern detected for user100
+2025-11-20 21:06:33,ERROR,Could not complete workspace creation for user928
+2025-11-22 21:30:13,INFO,User user401 updated profile
+2025-11-21 11:47:41,WARN,Suspicious repeated login attempts for user984
+2025-11-21 08:14:06,DEBUG,Background sync finished for user618
+2025-11-21 22:09:13,ERROR,Could not write data to storage for user891
+2025-11-21 16:53:48,DEBUG,Cache write completed for user207
+2025-11-22 21:19:33,INFO,User user957 changed password
+2025-11-22 22:49:54,ERROR,Could not save changes for user283
+2025-11-21 06:28:01,WARN,Suspicious repeated login attempts for user239
+2025-11-21 10:56:03,WARN,Suspicious repeated login attempts for user994
+2025-11-20 03:52:00,ERROR,Failed to generate security token for user345
+2025-11-22 02:36:34,WARN,Suspicious repeated login attempts for user503
+2025-11-21 04:57:04,INFO,User user999 reset MFA
+2025-11-22 13:53:33,ERROR,Failed to update settings for user277
+2025-11-21 15:46:48,ERROR,Failed to upload document for user616
+2025-11-20 12:58:43,DEBUG,Cache write completed for user470
+2025-11-21 16:43:57,ERROR,Could not complete workspace creation for user469
+2025-11-22 07:36:40,ALERT,Account lock triggered for user662
+2025-11-20 05:21:14,WARN,Unusual access pattern detected for user450
+2025-11-20 02:39:29,DEBUG,Preloaded configuration for user413
+2025-11-21 13:25:24,DEBUG,Validation routine succeeded for user653
+2025-11-21 04:35:13,ALERT,Account lock triggered for user645
+2025-11-21 20:15:47,ERROR,Could not save changes for user260
+2025-11-21 20:51:28,ALERT,Unauthorized access attempt involving user158
+2025-11-22 11:28:47,WARN,Potential brute-force activity involving user544
+2025-11-21 21:50:14,DEBUG,Validation routine succeeded for user928
+2025-11-22 12:41:00,INFO,User user939 reset MFA
+2025-11-22 15:08:43,DEBUG,Refreshed session token for user512
+2025-11-21 19:40:36,WARN,Multiple session resets detected for user777
+2025-11-20 03:07:21,WARN,Multiple session resets detected for user941
+2025-11-22 18:00:49,ERROR,Could not complete workspace creation for user382
+2025-11-22 16:11:45,INFO,User user856 added payment method
+2025-11-22 23:43:43,ALERT,Forced logout due to security anomaly for user895
+2025-11-22 08:08:01,WARN,Unexpected location login attempt for user654
+2025-11-20 01:25:05,DEBUG,Cache write completed for user468
+2025-11-20 00:16:26,INFO,User user574 logged in
+2025-11-22 21:27:37,DEBUG,Background sync finished for user684
+2025-11-22 05:55:27,WARN,High-frequency requests observed from user484
+2025-11-20 23:59:00,ALERT,Unauthorized access attempt involving user415
+2025-11-20 06:24:10,WARN,Potential brute-force activity involving user927
+2025-11-22 21:35:11,DEBUG,Background sync finished for user503
+2025-11-22 12:38:06,DEBUG,Validation routine succeeded for user426
+2025-11-20 02:06:47,INFO,User user874 uploaded file
+2025-11-22 06:20:36,DEBUG,Validation routine succeeded for user420
+2025-11-20 09:27:02,WARN,Unexpected location login attempt for user159
+2025-11-22 05:43:12,WARN,Potential brute-force activity involving user233
+2025-11-22 19:15:46,ERROR,Could not complete workspace creation for user151
+2025-11-21 07:22:09,WARN,High-frequency requests observed from user536
+2025-11-21 15:40:07,ALERT,Account lock triggered for user445
+2025-11-22 10:41:53,INFO,User user110 updated profile
+2025-11-20 20:33:01,INFO,User user606 added payment method
+2025-11-22 07:53:32,ALERT,Critical suspicious behaviour detected for user695
+2025-11-20 03:40:00,DEBUG,Refreshed session token for user876
+2025-11-22 09:55:44,INFO,User user916 added payment method
+2025-11-21 18:59:49,WARN,Unexpected location login attempt for user804
+2025-11-22 12:01:27,INFO,User user336 logged out
+2025-11-22 10:57:36,ALERT,Unauthorized access attempt involving user974
+2025-11-22 13:30:05,ERROR,Failed to validate credentials for user912
+2025-11-21 16:36:23,WARN,Suspicious repeated login attempts for user578
+2025-11-22 17:17:56,WARN,Multiple session resets detected for user371
+2025-11-21 17:27:27,DEBUG,Preloaded configuration for user616
+2025-11-20 11:07:09,WARN,Unexpected location login attempt for user328
+2025-11-21 03:46:38,ERROR,Failed to validate credentials for user311
+2025-11-22 02:06:37,ERROR,Failed to update settings for user985
+2025-11-20 21:56:37,ERROR,Could not write data to storage for user620
+2025-11-21 15:15:00,WARN,Multiple session resets detected for user479
+2025-11-22 04:26:11,WARN,High-frequency requests observed from user847
+2025-11-20 03:37:13,INFO,User user776 enabled 2FA
+2025-11-20 03:19:37,WARN,Unexpected location login attempt for user237
+2025-11-22 03:53:33,ALERT,Account lock triggered for user109
+2025-11-20 20:48:29,INFO,User user158 enabled 2FA
+2025-11-22 03:45:17,DEBUG,Preloaded configuration for user231
+2025-11-20 01:25:11,INFO,User user159 changed password
+2025-11-20 15:52:39,ALERT,Critical suspicious behaviour detected for user334
+2025-11-22 11:35:56,DEBUG,Background sync finished for user576
+2025-11-20 07:22:21,ALERT,Critical suspicious behaviour detected for user877
+2025-11-20 08:13:12,ERROR,Failed to update settings for user483
+2025-11-21 22:35:12,DEBUG,Cache write completed for user130
+2025-11-20 22:37:52,WARN,Multiple session resets detected for user682
+2025-11-22 17:00:49,ALERT,Forced logout due to security anomaly for user119
+2025-11-22 20:54:14,ERROR,Could not write data to storage for user641
+2025-11-21 03:14:58,DEBUG,Cache write completed for user402
+2025-11-22 11:29:12,WARN,Potential brute-force activity involving user955
+2025-11-20 20:45:53,WARN,Suspicious repeated login attempts for user990
+2025-11-21 05:37:53,WARN,Suspicious repeated login attempts for user240
+2025-11-20 03:24:51,WARN,Unexpected location login attempt for user642
+2025-11-20 06:56:11,DEBUG,Preloaded configuration for user719
+2025-11-22 18:01:16,INFO,User user993 updated profile
+2025-11-20 05:22:25,ERROR,Failed to validate credentials for user746
+2025-11-20 07:38:51,ERROR,Failed to upload document for user541
+2025-11-20 09:49:02,INFO,User user476 changed password
+2025-11-21 04:18:30,DEBUG,Refreshed session token for user680
+2025-11-22 11:21:19,WARN,Unexpected location login attempt for user427
+2025-11-20 18:10:38,ERROR,Could not complete workspace creation for user997
+2025-11-22 12:12:21,DEBUG,Background sync finished for user175
+2025-11-20 23:08:51,INFO,User user765 changed password
+2025-11-20 05:28:25,ALERT,Unauthorized access attempt involving user201
+2025-11-21 08:38:24,ALERT,Unauthorized access attempt involving user632
+2025-11-21 16:10:37,ALERT,Unauthorized access attempt involving user206
+2025-11-20 04:21:25,ERROR,Could not write data to storage for user232
+2025-11-20 14:01:55,ERROR,Failed to validate credentials for user433
+2025-11-22 20:19:10,ERROR,Could not write data to storage for user689
+2025-11-20 00:23:24,ALERT,Forced logout due to security anomaly for user737
+2025-11-20 17:03:24,ALERT,Critical suspicious behaviour detected for user283
+2025-11-21 02:43:03,ALERT,Forced logout due to security anomaly for user291
+2025-11-22 04:50:11,ALERT,Unauthorized access attempt involving user861
+2025-11-22 02:36:36,WARN,High-frequency requests observed from user160
+2025-11-22 13:05:42,ALERT,Forced logout due to security anomaly for user156
+2025-11-20 12:36:55,ALERT,Account lock triggered for user571
+2025-11-21 11:28:40,ERROR,Failed to upload document for user244
+2025-11-20 00:58:12,ERROR,Failed to upload document for user714
+2025-11-20 23:01:37,WARN,Unexpected location login attempt for user264
+2025-11-22 06:45:57,ERROR,Could not write data to storage for user702
+2025-11-22 01:32:41,WARN,Unusual access pattern detected for user499
+2025-11-21 20:48:04,DEBUG,Cache write completed for user643
+2025-11-21 22:13:24,ERROR,Could not save changes for user191
+2025-11-22 14:28:33,ALERT,Forced logout due to security anomaly for user690
+2025-11-21 21:28:22,INFO,User user477 enabled 2FA
+2025-11-20 04:54:42,ERROR,Failed to validate credentials for user325
+2025-11-20 20:51:50,DEBUG,Validation routine succeeded for user648
+2025-11-20 00:10:56,WARN,High-frequency requests observed from user434
+2025-11-20 20:25:36,ALERT,Unauthorized access attempt involving user683
+2025-11-21 14:55:38,ALERT,Forced logout due to security anomaly for user162
+2025-11-21 22:28:45,ERROR,Could not write data to storage for user918
+2025-11-22 22:37:16,WARN,Unexpected location login attempt for user926
+2025-11-22 07:16:58,ALERT,Account lock triggered for user931
+2025-11-20 11:57:29,ERROR,Failed to upload document for user994
+2025-11-20 03:23:51,DEBUG,Refreshed session token for user772
+2025-11-22 01:21:42,ALERT,Unauthorized access attempt involving user663
+2025-11-21 05:17:08,INFO,User user253 registered device
+2025-11-22 05:48:18,ERROR,Could not save changes for user405
+2025-11-22 22:31:32,WARN,Potential brute-force activity involving user466
+2025-11-22 20:44:50,ALERT,Forced logout due to security anomaly for user633
+2025-11-21 02:38:54,ALERT,Forced logout due to security anomaly for user185
+2025-11-22 11:51:38,WARN,Unexpected location login attempt for user510
+2025-11-22 14:35:36,ERROR,Failed to update settings for user133
+2025-11-21 08:20:52,ERROR,Failed to generate security token for user138
+2025-11-20 21:36:25,INFO,User user168 logged out
+2025-11-20 09:14:52,INFO,User user779 reset MFA
+2025-11-20 05:21:28,INFO,User user439 enabled 2FA
+2025-11-20 17:56:06,ERROR,Failed to validate credentials for user614
+2025-11-21 00:01:30,WARN,Suspicious repeated login attempts for user235
+2025-11-20 05:41:13,WARN,High-frequency requests observed from user585
+2025-11-20 10:58:09,INFO,User user887 created shared folder
+2025-11-20 01:18:29,INFO,User user746 created new workspace
+2025-11-22 10:20:46,ERROR,Failed to update settings for user546
+2025-11-22 16:28:04,WARN,Suspicious repeated login attempts for user753
+2025-11-21 16:41:01,ERROR,Could not write data to storage for user673
+2025-11-21 10:45:37,ALERT,Critical suspicious behaviour detected for user682
+2025-11-21 23:29:12,ALERT,Critical suspicious behaviour detected for user695
+2025-11-20 12:38:03,WARN,High-frequency requests observed from user214
+2025-11-20 11:44:48,DEBUG,Validation routine succeeded for user135
+2025-11-20 21:00:23,ERROR,Failed to validate credentials for user366
+2025-11-22 00:27:22,WARN,Unusual access pattern detected for user933
+2025-11-20 00:07:02,WARN,Unexpected location login attempt for user609
+2025-11-20 07:50:40,ALERT,Forced logout due to security anomaly for user381
+2025-11-20 11:21:11,ALERT,Critical suspicious behaviour detected for user819
+2025-11-22 11:02:38,WARN,Suspicious repeated login attempts for user841
+2025-11-20 16:46:39,ERROR,Failed to update settings for user771
+2025-11-20 01:51:53,INFO,User user462 updated profile
+2025-11-20 23:09:41,ERROR,Failed to generate security token for user641
+2025-11-22 18:51:25,ALERT,Forced logout due to security anomaly for user421
+2025-11-20 22:41:05,INFO,User user172 enabled 2FA
+2025-11-22 22:22:18,ALERT,Critical suspicious behaviour detected for user205
+2025-11-20 11:26:28,DEBUG,Cache write completed for user669
+2025-11-22 18:03:18,ERROR,Could not write data to storage for user355
+2025-11-21 06:22:52,INFO,User user208 reset MFA
+2025-11-21 06:04:16,WARN,Multiple session resets detected for user835
