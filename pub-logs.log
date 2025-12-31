@@ -1,0 +1,109 @@
+Loaded 200 log rows. Publisher started...
+[PUB 18:01:34] -> WARN-hajar_azimova: Multiple session resets detected for user619
+[PUB 18:01:36] -> ALERT-hajar_azimova: Unauthorized access attempt involving user812
+[PUB 18:01:38] -> DEBUG-hajar_azimova: Refreshed session token for user989
+[PUB 18:01:40] -> INFO-hajar_azimova: User user306 changed password
+[PUB 18:01:42] -> INFO-hajar_azimova: User user774 logged in
+[PUB 18:01:44] -> ERROR-hajar_azimova: Could not write data to storage for user546
+[PUB 18:01:46] -> DEBUG-hajar_azimova: Background sync finished for user571
+[PUB 18:01:48] -> WARN-hajar_azimova: Potential brute-force activity involving user987
+[PUB 18:01:50] -> ALERT-hajar_azimova: Unauthorized access attempt involving user877
+[PUB 18:01:52] -> DEBUG-hajar_azimova: Validation routine succeeded for user304
+[PUB 18:01:54] -> WARN-hajar_azimova: Suspicious repeated login attempts for user694
+[PUB 18:01:56] -> WARN-hajar_azimova: Unusual access pattern detected for user883
+[PUB 18:01:58] -> DEBUG-hajar_azimova: Preloaded configuration for user509
+[PUB 18:02:00] -> INFO-hajar_azimova: User user372 enabled 2FA
+[PUB 18:02:02] -> DEBUG-hajar_azimova: Refreshed session token for user438
+[PUB 18:02:04] -> WARN-hajar_azimova: Unusual access pattern detected for user443
+[PUB 18:02:06] -> INFO-hajar_azimova: User user991 changed password
+[PUB 18:02:08] -> ALERT-hajar_azimova: Account lock triggered for user542
+[PUB 18:02:10] -> ALERT-hajar_azimova: Critical suspicious behaviour detected for user875
+[PUB 18:02:12] -> DEBUG-hajar_azimova: Refreshed session token for user472
+[PUB 18:02:14] -> WARN-hajar_azimova: Unusual access pattern detected for user939
+[PUB 18:02:16] -> DEBUG-hajar_azimova: Cache write completed for user375
+[PUB 18:02:18] -> INFO-hajar_azimova: User user945 changed password
+[PUB 18:02:20] -> DEBUG-hajar_azimova: Refreshed session token for user694
+[PUB 18:02:22] -> DEBUG-hajar_azimova: Refreshed session token for user116
+[PUB 18:02:24] -> WARN-hajar_azimova: Potential brute-force activity involving user641
+[PUB 18:02:26] -> DEBUG-hajar_azimova: Refreshed session token for user748
+[PUB 18:02:28] -> DEBUG-hajar_azimova: Refreshed session token for user974
+[PUB 18:02:30] -> INFO-hajar_azimova: User user787 created shared folder
+[PUB 18:02:32] -> DEBUG-hajar_azimova: Preloaded configuration for user447
+[PUB 18:02:34] -> DEBUG-hajar_azimova: Refreshed session token for user107
+[PUB 18:02:36] -> WARN-hajar_azimova: Unusual access pattern detected for user100
+[PUB 18:02:38] -> ERROR-hajar_azimova: Could not complete workspace creation for user928
+[PUB 18:02:40] -> INFO-hajar_azimova: User user401 updated profile
+[PUB 18:02:42] -> WARN-hajar_azimova: Suspicious repeated login attempts for user984
+[PUB 18:02:44] -> DEBUG-hajar_azimova: Background sync finished for user618
+[PUB 18:02:46] -> ERROR-hajar_azimova: Could not write data to storage for user891
+[PUB 18:02:48] -> DEBUG-hajar_azimova: Cache write completed for user207
+[PUB 18:02:50] -> INFO-hajar_azimova: User user957 changed password
+[PUB 18:02:52] -> ERROR-hajar_azimova: Could not save changes for user283
+[PUB 18:02:54] -> WARN-hajar_azimova: Suspicious repeated login attempts for user239
+[PUB 18:02:56] -> WARN-hajar_azimova: Suspicious repeated login attempts for user994
+[PUB 18:02:58] -> ERROR-hajar_azimova: Failed to generate security token for user345
+[PUB 18:03:00] -> WARN-hajar_azimova: Suspicious repeated login attempts for user503
+[PUB 18:03:02] -> INFO-hajar_azimova: User user999 reset MFA
+[PUB 18:03:04] -> ERROR-hajar_azimova: Failed to update settings for user277
+[PUB 18:03:06] -> ERROR-hajar_azimova: Failed to upload document for user616
+[PUB 18:03:08] -> DEBUG-hajar_azimova: Cache write completed for user470
+[PUB 18:03:10] -> ERROR-hajar_azimova: Could not complete workspace creation for user469
+[PUB 18:03:12] -> ALERT-hajar_azimova: Account lock triggered for user662
+[PUB 18:03:14] -> WARN-hajar_azimova: Unusual access pattern detected for user450
+[PUB 18:03:16] -> DEBUG-hajar_azimova: Preloaded configuration for user413
+[PUB 18:03:18] -> DEBUG-hajar_azimova: Validation routine succeeded for user653
+[PUB 18:03:20] -> ALERT-hajar_azimova: Account lock triggered for user645
+[PUB 18:03:22] -> ERROR-hajar_azimova: Could not save changes for user260
+[PUB 18:03:24] -> ALERT-hajar_azimova: Unauthorized access attempt involving user158
+[PUB 18:03:26] -> WARN-hajar_azimova: Potential brute-force activity involving user544
+[PUB 18:03:28] -> DEBUG-hajar_azimova: Validation routine succeeded for user928
+[PUB 18:03:30] -> INFO-hajar_azimova: User user939 reset MFA
+[PUB 18:03:32] -> DEBUG-hajar_azimova: Refreshed session token for user512
+[PUB 18:03:34] -> WARN-hajar_azimova: Multiple session resets detected for user777
+[PUB 18:03:36] -> WARN-hajar_azimova: Multiple session resets detected for user941
+[PUB 18:03:38] -> ERROR-hajar_azimova: Could not complete workspace creation for user382
+[PUB 18:03:40] -> INFO-hajar_azimova: User user856 added payment method
+[PUB 18:03:42] -> ALERT-hajar_azimova: Forced logout due to security anomaly for user895
+[PUB 18:03:44] -> WARN-hajar_azimova: Unexpected location login attempt for user654
+[PUB 18:03:46] -> DEBUG-hajar_azimova: Cache write completed for user468
+[PUB 18:03:48] -> INFO-hajar_azimova: User user574 logged in
+[PUB 18:03:50] -> DEBUG-hajar_azimova: Background sync finished for user684
+[PUB 18:03:52] -> WARN-hajar_azimova: High-frequency requests observed from user484
+[PUB 18:03:54] -> ALERT-hajar_azimova: Unauthorized access attempt involving user415
+[PUB 18:03:56] -> WARN-hajar_azimova: Potential brute-force activity involving user927
+[PUB 18:03:58] -> DEBUG-hajar_azimova: Background sync finished for user503
+[PUB 18:04:00] -> DEBUG-hajar_azimova: Validation routine succeeded for user426
+[PUB 18:04:02] -> INFO-hajar_azimova: User user874 uploaded file
+[PUB 18:04:04] -> DEBUG-hajar_azimova: Validation routine succeeded for user420
+[PUB 18:04:06] -> WARN-hajar_azimova: Unexpected location login attempt for user159
+[PUB 18:04:08] -> WARN-hajar_azimova: Potential brute-force activity involving user233
+[PUB 18:04:10] -> ERROR-hajar_azimova: Could not complete workspace creation for user151
+[PUB 18:04:12] -> WARN-hajar_azimova: High-frequency requests observed from user536
+[PUB 18:04:14] -> ALERT-hajar_azimova: Account lock triggered for user445
+[PUB 18:04:16] -> INFO-hajar_azimova: User user110 updated profile
+[PUB 18:04:18] -> INFO-hajar_azimova: User user606 added payment method
+[PUB 18:04:20] -> ALERT-hajar_azimova: Critical suspicious behaviour detected for user695
+[PUB 18:04:22] -> DEBUG-hajar_azimova: Refreshed session token for user876
+[PUB 18:04:24] -> INFO-hajar_azimova: User user916 added payment method
+[PUB 18:04:26] -> WARN-hajar_azimova: Unexpected location login attempt for user804
+[PUB 18:04:28] -> INFO-hajar_azimova: User user336 logged out
+[PUB 18:04:30] -> ALERT-hajar_azimova: Unauthorized access attempt involving user974
+[PUB 18:04:32] -> ERROR-hajar_azimova: Failed to validate credentials for user912
+[PUB 18:04:34] -> WARN-hajar_azimova: Suspicious repeated login attempts for user578
+[PUB 18:04:36] -> WARN-hajar_azimova: Multiple session resets detected for user371
+[PUB 18:04:38] -> DEBUG-hajar_azimova: Preloaded configuration for user616
+[PUB 18:04:40] -> WARN-hajar_azimova: Unexpected location login attempt for user328
+[PUB 18:04:42] -> ERROR-hajar_azimova: Failed to validate credentials for user311
+[PUB 18:04:44] -> ERROR-hajar_azimova: Failed to update settings for user985
+[PUB 18:04:46] -> ERROR-hajar_azimova: Could not write data to storage for user620
+[PUB 18:04:48] -> WARN-hajar_azimova: Multiple session resets detected for user479
+[PUB 18:04:50] -> WARN-hajar_azimova: High-frequency requests observed from user847
+[PUB 18:04:52] -> INFO-hajar_azimova: User user776 enabled 2FA
+[PUB 18:04:54] -> WARN-hajar_azimova: Unexpected location login attempt for user237
+[PUB 18:04:56] -> ALERT-hajar_azimova: Account lock triggered for user109
+[PUB 18:04:58] -> INFO-hajar_azimova: User user158 enabled 2FA
+[PUB 18:05:00] -> DEBUG-hajar_azimova: Preloaded configuration for user231
+[PUB 18:05:02] -> INFO-hajar_azimova: User user159 changed password
+[PUB 18:05:04] -> ALERT-hajar_azimova: Critical suspicious behaviour detected for user334
+[PUB 18:05:06] -> DEBUG-hajar_azimova: Background sync finished for user576
+[PUB 18:05:08] -> ALERT-hajar_azimova: Critical suspicious behaviour detected for user877
