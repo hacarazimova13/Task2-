@@ -1,0 +1,49 @@
+[SUB 0] [18:01:42] MATCH INFO: User user774 logged in | pattern=User user[0-9]{3} logged in
+[SUB 0] [18:01:47] MATCH DEBUG: Background sync finished for user571 | pattern=Background sync finished .*
+[SUB 0] [18:01:54] MATCH WARN: Suspicious repeated login attempts for user694 | pattern=Suspicious .*[SUB 0] [18:01:59] MATCH DEBUG: Preloaded configuration for user509 | pattern=Preloaded configuration for .*
+[SUB 0] [18:02:30] MATCH INFO: User user787 created shared folder | pattern=User user[0-9]{3} created shared folder
+[SUB 0] [18:02:33] MATCH DEBUG: Preloaded configuration for user447 | pattern=Preloaded configuration for .*
+[SUB 0] [18:02:42] MATCH WARN: Suspicious repeated login attempts for user984 | pattern=Suspicious .*[SUB 0] [18:02:44] MATCH DEBUG: Background sync finished for user618 | pattern=Background sync finished .*
+[SUB 0] [18:02:54] MATCH WARN: Suspicious repeated login attempts for user239 | pattern=Suspicious .*[SUB 0] [18:02:56] MATCH WARN: Suspicious repeated login attempts for user994 | pattern=Suspicious .*[SUB 0] [18:03:00] MATCH WARN: Suspicious repeated login attempts for user503 | pattern=Suspicious .*[SUB 0] [18:03:04] MATCH ERROR: Failed to update settings for user277 | pattern=Failed to update .*
+[SUB 0] [18:03:16] MATCH DEBUG: Preloaded configuration for user413 | pattern=Preloaded configuration for .*
+[SUB 0] [18:03:48] MATCH INFO: User user574 logged in | pattern=User user[0-9]{3} logged in
+[SUB 0] [18:03:50] MATCH DEBUG: Background sync finished for user684 | pattern=Background sync finished .*
+[SUB 0] [18:03:59] MATCH DEBUG: Background sync finished for user503 | pattern=Background sync finished .*
+[SUB 0] [18:04:34] MATCH WARN: Suspicious repeated login attempts for user578 | pattern=Suspicious .*[SUB 0] [18:04:38] MATCH DEBUG: Preloaded configuration for user616 | pattern=Preloaded configuration for .*
+[SUB 0] [18:04:44] MATCH ERROR: Failed to update settings for user985 | pattern=Failed to update .*
+[SUB 0] [18:05:00] MATCH DEBUG: Preloaded configuration for user231 | pattern=Preloaded configuration for .*
+[SUB 0] [18:05:07] MATCH DEBUG: Background sync finished for user576 | pattern=Background sync finished .*
+[SUB 0] [18:05:10] MATCH ERROR: Failed to update settings for user483 | pattern=Failed to update .*
+[SUB 0] [18:05:25] MATCH WARN: Suspicious repeated login attempts for user990 | pattern=Suspicious .*[SUB 0] [18:05:27] MATCH WARN: Suspicious repeated login attempts for user240 | pattern=Suspicious .*[SUB 0] [18:05:31] MATCH DEBUG: Preloaded configuration for user719 | pattern=Preloaded configuration for .*
+[SUB 0] [18:05:47] MATCH DEBUG: Background sync finished for user175 | pattern=Background sync finished .*
+[RULES] subscriber 0 reloaded at 18:06:06
+[RULES] subscriber 0 reloaded at 18:06:46
+[RULES] subscriber 0 reloaded at 18:06:56
+[SUB 0] [18:07:09] MATCH ERROR: Failed to update settings for user133 | pattern=Failed to update .*
+[SUB 0] [18:07:21] MATCH WARN: Suspicious repeated login attempts for user235 | pattern=Suspicious .*[SUB 0] [18:07:25] MATCH INFO: User user887 created shared folder | pattern=User user[0-9]{3} created shared folder
+[SUB 0] [18:07:29] MATCH ERROR: Failed to update settings for user546 | pattern=Failed to update .*
+[SUB 0] [18:07:31] MATCH WARN: Suspicious repeated login attempts for user753 | pattern=Suspicious .*[SUB 0] [18:07:53] MATCH WARN: Suspicious repeated login attempts for user841 | pattern=Suspicious .*[SUB 0] [18:07:55] MATCH ERROR: Failed to update settings for user771 | pattern=Failed to update .*
+[SUB 0] [18:08:13] MATCH WARN: Multiple session resets detected for user835 | pattern=Multiple session resets.*
+[SUB 0] [18:08:15] MATCH WARN: Multiple session resets detected for user619 | pattern=Multiple session resets.*
+[SUB 0] [18:08:23] MATCH INFO: User user774 logged in | pattern=User user[0-9]{3} logged in
+[SUB 0] [18:08:27] MATCH DEBUG: Background sync finished for user571 | pattern=Background sync finished .*
+[SUB 0] [18:08:35] MATCH WARN: Suspicious repeated login attempts for user694 | pattern=Suspicious .*[SUB 0] [18:08:39] MATCH DEBUG: Preloaded configuration for user509 | pattern=Preloaded configuration for .*
+[SUB 0] [18:09:11] MATCH INFO: User user787 created shared folder | pattern=User user[0-9]{3} created shared folder
+[SUB 0] [18:09:13] MATCH DEBUG: Preloaded configuration for user447 | pattern=Preloaded configuration for .*
+[SUB 0] [18:09:23] MATCH WARN: Suspicious repeated login attempts for user984 | pattern=Suspicious .*[SUB 0] [18:09:25] MATCH DEBUG: Background sync finished for user618 | pattern=Background sync finished .*
+[SUB 0] [18:09:35] MATCH WARN: Suspicious repeated login attempts for user239 | pattern=Suspicious .*[SUB 0] [18:09:37] MATCH WARN: Suspicious repeated login attempts for user994 | pattern=Suspicious .*[SUB 0] [18:09:41] MATCH WARN: Suspicious repeated login attempts for user503 | pattern=Suspicious .*[SUB 0] [18:09:45] MATCH ERROR: Failed to update settings for user277 | pattern=Failed to update .*
+[SUB 0] [18:09:57] MATCH DEBUG: Preloaded configuration for user413 | pattern=Preloaded configuration for .*
+[SUB 0] [18:10:15] MATCH WARN: Multiple session resets detected for user777 | pattern=Multiple session resets.*
+[SUB 0] [18:10:17] MATCH WARN: Multiple session resets detected for user941 | pattern=Multiple session resets.*
+[SUB 0] [18:10:29] MATCH INFO: User user574 logged in | pattern=User user[0-9]{3} logged in
+[SUB 0] [18:10:31] MATCH DEBUG: Background sync finished for user684 | pattern=Background sync finished .*
+[SUB 0] [18:10:39] MATCH DEBUG: Background sync finished for user503 | pattern=Background sync finished .*
+[SUB 0] [18:11:15] MATCH WARN: Suspicious repeated login attempts for user578 | pattern=Suspicious .*[SUB 0] [18:11:17] MATCH WARN: Multiple session resets detected for user371 | pattern=Multiple session resets.*
+[SUB 0] [18:11:19] MATCH DEBUG: Preloaded configuration for user616 | pattern=Preloaded configuration for .*
+[SUB 0] [18:11:25] MATCH ERROR: Failed to update settings for user985 | pattern=Failed to update .*
+[SUB 0] [18:11:29] MATCH WARN: Multiple session resets detected for user479 | pattern=Multiple session resets.*
+[SUB 0] [18:11:41] MATCH DEBUG: Preloaded configuration for user231 | pattern=Preloaded configuration for .*
+[SUB 0] [18:11:47] MATCH DEBUG: Background sync finished for user576 | pattern=Background sync finished .*
+[SUB 0] [18:11:51] MATCH ERROR: Failed to update settings for user483 | pattern=Failed to update .*
+[SUB 0] [18:11:55] MATCH WARN: Multiple session resets detected for user682 | pattern=Multiple session resets.*
+[SUB 0] [18:12:06] MATCH WARN: Suspicious repeated login attempts for user990 | pattern=Suspicious .*
